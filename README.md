@@ -1,6 +1,3 @@
-Certainly, here's a sample README.md file that you can use as a starting point for your GitHub repository to explain your project and how to use it:
-
-```markdown
 # Skynet Proxy for OpenAI Services
 
 Welcome to the Skynet Proxy project! This repository contains code and instructions for setting up a transparent proxy that enables dynamic interaction with OpenAI's assistants and files endpoint using Node.js.
@@ -86,6 +83,3 @@ We welcome contributions to this project! If you'd like to contribute, please re
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-You can customize this README template to provide more specific information about your project, including detailed usage examples and any additional configuration steps. Additionally, create separate files (e.g., `TROUBLESHOOTING.md`, `CONTRIBUTING.md`) as needed to provide more in-depth documentation and contribution guidelines.
