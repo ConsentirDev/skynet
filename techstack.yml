@@ -2,7 +2,7 @@ repo_name: ConsentirDev/skynet
 report_id: e16a857022c3621f8e69be0061084857
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-19T07:13:13+00:00'
+timestamp: '2024-01-05T08:57:57+00:00'
 requested_by: ConsentirDev
 provider: github
 branch: main
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ConsentirDev/skynet
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -26,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ConsentirDev/skynet
   detection_source: Repo Metadata
